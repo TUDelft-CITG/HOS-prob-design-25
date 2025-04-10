@@ -16,8 +16,8 @@
 title: CIEM42X0-PD
 tagline: CIEM42X0-PD Probabilistic Design
 description: Hydraulic and Offshore Structures track, Civil Engineering Program at TU Delft.
-author: Robert Lanzafame
-baseurl: '/HOS-prob-design-24' # the subpath of your site, e.g. /blog
+author: Robert Lanzafame and Patricia Mares Nasarre
+baseurl: '/HOS-prob-design-25' # the subpath of your site, e.g. /blog
 url: 'https://tudelft-citg.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 favicon_ico:: "favicon.ico"
 exclude:
@@ -51,13 +51,13 @@ aux_links:
   CIEM4230:
     - 'https://brightspace.tudelft.nl/d2l/home/594927'
   CM Website:
-    - 'https://tudelft-citg.github.io/HOS-comp-mod-24/'
+    - 'https://tudelft-citg.github.io/HOS-comp-mod-25/'
   Online Textbook:
     - 'https://teachbooks.tudelft.nl/risk-reliability/intro.html'
   Workbook:
     - 'https://teachbooks.github.io/HOS-workbook/intro.html'
 aux_links_new_tab: true
-footer_content: 'Robert Lanzafame &copy; 2024 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
+footer_content: 'Robert Lanzafame, Patricia Mares Nasarre &copy; 2025 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
 
 # Collections for website data
 collections:
