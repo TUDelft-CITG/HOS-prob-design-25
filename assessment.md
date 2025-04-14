@@ -22,4 +22,4 @@ The assessment for **Probabilistic Design** is tailored for each B module as fol
   - Embedded chapters on the floating-submerged tunnel project
   - Specific questions in the oral exam
 
-Note that while the three exercises submitted as part of the Portfolio{: .label .label-red } are not part of the assessment (i.e., final grade) of B1 or B3, they will still be provided a numeric score and feedback by the Probabilistic Design teaching staff. In addition, they are designed to cover the analysis that is submitted as part of your report, so don't skip them!
+Note that while the three exercises submitted as part of the Portfolio are not part of the assessment (i.e., final grade) of B1 or B3, they will still be provided a numeric score and feedback by the Probabilistic Design teaching staff. In addition, they are designed to cover the analysis that is submitted as part of your report, so don't skip them!
