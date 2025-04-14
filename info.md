@@ -59,7 +59,7 @@ The Probabilistic Design Unit meets regularly on Tuesdays and Fridays each week.
 
 #### Collegerama Recordings
 
-During the 2023-24 academic year Collegerama is recorded via CIEM4220 Dams Dikes and Breakwaters, so the Probabilistic Design unit recordings will be mixed with the lectures from that unit. The list of all videos can be found [here](https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/){:target="_blank"}, and the links for each recording will be added to the weekly overview pages directly.
+During the 2023-24 academic year Collegerama is recorded via CIEM4220 Dams Dikes and Breakwaters, so the Probabilistic Design unit recordings will be mixed with the lectures from that unit. The list of all videos can be found [here](https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/){:target="_blank"}.
 
 <!-- - [Collegerama recording](https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/presentation/aa391c934f024b83bcd9b6190136a3261d?academicYear=2023-2024-ciem4220){:target="_blank"} (all recordings listed [here](https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/){:target="_blank"}).<br> -->
 <!-- CIEM4220 2023-24: https://collegeramavideoportal.tudelft.nl/catalogue/ciem4220/presentation/aa391c934f024b83bcd9b6190136a3261d?academicYear=2023-2024-ciem4220 -->
@@ -68,7 +68,7 @@ During the 2023-24 academic year Collegerama is recorded via CIEM4220 Dams Dikes
 
 ### Programming
 
-Programming in Python and use of a command line interface will be required to complete most of the workshops, and some (not all) homework exercises. We will build on concepts covered in MUDE and use GitHub (not GitLab) to receive and submit assignments. We will also introduce VS Code as an IDE rather than Jupyter Lab. Workshops that are part of the exercise portfolio will require a Markdown-formatted report to be included in the repository.
+Programming in Python and use of a command line interface will be required to complete most of the workshops, and some (not all) homework exercises. We will build on concepts covered in MUDE and use GitHub (not GitLab) to receive and submit assignments. Workshops that are part of the exercise portfolio will require a Markdown-formatted report to be included in the repository.
 
 ### Assignments
 
@@ -95,7 +95,7 @@ You are welcome to use an AI tool to help you write code or answers to the quest
 
 #### Groups
 
-You can do the assignments individually, or in groups. You can also choose your groups, but keep in mind that feedback will be provided by group, not by individual. For each assignment that is turned in, you will be asked to report your group members to Robert via email. Please include the following information in your email:
+You can do the assignments individually, or in groups. You can also choose your groups, but keep in mind that feedback will be provided by group, not by individual. For each assignment that is turned in, you will be asked to report your group members to Patricia via email. Please include the following information in your email:
 - name of group
 - name of each group member
 - GitHub username of each group member
@@ -103,7 +103,7 @@ You can do the assignments individually, or in groups. You can also choose your 
 
 Unless you send a new email for the next assignment that is turned in, we will assume your group has remained unchanged.
 
-Although the assignments are meant to be completed in class, this may not always be the case depending on your schedule. In case you have issues with your group members completing an assignment outside of class, or for any other reason, contact Robert immediately.
+Although the assignments are meant to be completed in class, this may not always be the case depending on your schedule. In case you have issues with your group members completing an assignment outside of class, or for any other reason, contact Patricia immediately.
 
 <!--
 
@@ -113,7 +113,7 @@ This unit has two types of assignments: homework and workshops, both of which wi
 
 ### Homework
 
-Homework assignments are a mix of analytic and coding exercises to prepare you for the Friday workshops, as well as your B module design assignments and exams. In most cases they do not need to be turned in, and solutions will be shared after the due dates indicated in the calendar for you to check your work. We are working on setting up an autograder to help you check whether or not your code is working as expeced, which would be optional. This involves pushing your code to a GitLab repository we create for you, similar to what we did in MUDE; more information will be provided about this in week 3.
+Homework assignments are a mix of analytic and coding exercises to prepare you for the Friday workshops, as well as your B module design assignments and exams. In most cases they do not need to be turned in, and solutions will be shared after the due dates indicated in the calendar for you to check your work.
 
 The recommended dates for you to start and finish the homework assignments are indicated in the calendar with these buttons: <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">Start HW 1</a>{: .label .label-red } and <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">HW 1 Due</a>{: .label .label-red }. Note that the buttons contain links that take you to the assignments and solutions in the HOS book (once they are available).
 
@@ -148,7 +148,7 @@ This book will be actively updated throughout the quarter; primarily with assign
 
 ### Workbook
 
-The <a href="https://teachbooks.github.io/HOS-workbook/intro.html" target="_blank">Workbook</a> is an online book (similar to the textbook above) that will be used to present various materials that don't quite fit in the textbook, for example: exercises, workshop assignments, solutions, miscellaneous teaching material, etc. This book will be updated throughout Q4. Updates will be announced in-class..
+The <a href="https://teachbooks.github.io/HOS-workbook/intro.html" target="_blank">Workbook</a> is an online book (similar to the textbook above) that will be used to present various materials that don't quite fit in the textbook, for example: exercises, workshop assignments, solutions, miscellaneous teaching material, etc. This book will be updated throughout Q4. Updates will be announced in-class.
 
 ### Other Material
 
@@ -160,7 +160,7 @@ For those who want more background in the topics of this unit, two excellent tex
 
 >Der Kiureghian, A. (2022). Structural and System Reliability. Cambridge: Cambridge University Press. doi:10.1017/9781108991889
 
-Here is the <a href="https://doi.org/10.1017/9781108991889" target="_blank">book website</a>. Hard copies can be borrowed from Robert and also found in the TU Delft Library.
+Here is the <a href="https://doi.org/10.1017/9781108991889" target="_blank">book website</a>. Hard copies can be found in the TU Delft Library.
 
 >Moss, R. E. S. (2020). Applied Civil Engineering Risk Analysis. New York: Springer International Publishing. doi:10.1007/978-3-030-22680-0
 
