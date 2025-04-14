@@ -77,7 +77,7 @@ The term **assignments** is used generally to refer to the following:
 - **Workshops**: the in-class assignments we do on Friday. Three of them will be submitted for feedback (see [Assessment page](./assessment.md) for information on how this contributes to your module grade)
 - **Exercise Portfolio**: the collection of three Workshops that will be submitted for feedback.
 
-Assignments will be provided via GitHub, and you will receive a link on the relevant page of this website for each assignment. You will need a GitHub account to access the assignments. If for some reason you do not want to create a GitHub account, please contact Robert directly.
+Assignments will be provided via GitHub, and you will receive a link on the relevant page of this website for each assignment. You will need a GitHub account to access the assignments.
 
 #### Grading
 
@@ -95,15 +95,13 @@ You are welcome to use an AI tool to help you write code or answers to the quest
 
 #### Groups
 
-You can do the assignments individually, or in groups. You can also choose your groups, but keep in mind that feedback will be provided by group, not by individual. For each assignment that is turned in, you will be asked to report your group members to Patricia via email. Please include the following information in your email:
+You can do the assignments individually, or in groups. You can also choose your groups, but keep in mind that feedback will be provided by group, not by individual. When you submit your first assignment, you will report your group members to Patricia via email. Please include the following information in your email:
 - name of group
 - name of each group member
 - GitHub username of each group member
 - email of each group member
 
-Unless you send a new email for the next assignment that is turned in, we will assume your group has remained unchanged.
-
-Although the assignments are meant to be completed in class, this may not always be the case depending on your schedule. In case you have issues with your group members completing an assignment outside of class, or for any other reason, contact Patricia immediately.
+Note that how you choose to conduct the assignments (team/individual) and the team itself cannot be changed. If you have any problems related to this, please contact Patricia.
 
 <!--
 
