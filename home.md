@@ -23,5 +23,5 @@ seo:
 [Previous Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-{{ site.modules.last }}
-[Calendar (all weeks)](calendar.md){: .btn .btn-outline .fs-3 }
+<!-- {{ site.modules.last }} -->
+<!-- [Calendar (all weeks)](calendar.md){: .btn .btn-outline .fs-3 } -->
