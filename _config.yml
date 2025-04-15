@@ -32,7 +32,8 @@ exclude:
     "build-local.sh",
     "build-page.sh",
     "_config.yml.bak",
-    "_modules" # ignore weekly overview for 2024
+    "_modules", # ignore weekly overview for 2024
+    "software"  # ignore until 2025 env is ready
   ]
 # Back to top link
 back_to_top: true
