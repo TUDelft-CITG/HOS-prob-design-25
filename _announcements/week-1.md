@@ -7,7 +7,7 @@ date: 2024-04-22
 <!-- <a href="" target="_blank">link</a> -->
 <!-- <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">Start HW 1</a> -->
 
-The lecture slides used in the lecture today can be found [here](https://github.com/TUDelft-CITG/HOS-prob-design-25/blob/main/assets/lecture_slides/01_lecture_2025.pdf). 
+The lecture slides used in the lecture today can be found [here](https://github.com/TUDelft-CITG/HOS-prob-design-25/blob/32823aa0139d1aa6e3c371449e387778d25bc361/assets/lecture_slides/01_lecture_2025.pdf). 
 
 The homework for this week includes:
 1. Set up an environment using [this yml file](https://github.com/TUDelft-CITG/HOS-prob-design-25/blob/main/assets/environment/prob_design_25.yml). Instructions on how to do it can be found [here](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html), in the section 'Creating an environment from an environment.yml file'. Clarification: you can download the provided yml file and place it in your desktop. Then, you will have to open the terminal and navigate to your desktop (typically, via 'cd desktop'). There, you can follow the instructions in the provided link.
