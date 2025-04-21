@@ -1,7 +1,7 @@
 ---
 name: Patricia Mares Nasarre
 role: Instructor
-email: Extreme Value Analysis
+email: Extreme Value Analysis, p.maresnasarre@tudelft.nl
 photo: patricia.jpg
 ---
 

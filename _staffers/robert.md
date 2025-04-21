@@ -2,7 +2,7 @@
 name: Robert Lanzafame
 role: Instructor
 # pronouns: Primary Instructor
-email: R.C.Lanzafame@tudelft.nl
+email: Component Reliability
 photo: robert.JPG
 ---
 
