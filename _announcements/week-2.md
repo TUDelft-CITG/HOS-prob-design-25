@@ -1,7 +1,7 @@
 ---
 title: "Lecture slides and homework for Week 2"
 week: 2
-date: 2024-05-09
+date: 2025-04-29
 ---
 
 <!-- <a href="" target="_blank">link</a> -->
