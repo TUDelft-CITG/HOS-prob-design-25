@@ -1,7 +1,7 @@
 ---
 title: "Program for the coming up lectures"
 week: 3
-date: 2024-05-06
+date: 2025-05-06
 ---
 
 <!-- <a href="" target="_blank">link</a> -->
