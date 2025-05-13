@@ -9,4 +9,4 @@ date: 2025-05-13
 
 You can find th(e feedback on WS02 in a new file in your working repo with the name of your team.
 
-Also, a reference solution is not published in the [Workbook](https://tudelft-citg.github.io/HOS-workbook/2025/workshop_OLD/02/analysis.html).
+Also, a reference solution is now published in the [Workbook](https://tudelft-citg.github.io/HOS-workbook/2025/workshop_OLD/02/analysis.html).
