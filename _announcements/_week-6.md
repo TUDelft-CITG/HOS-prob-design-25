@@ -1,12 +1,12 @@
 ---
-title: "Week 6: system reliability!"
+title: "Workshop 5"
 week: 6
-date: 2024-05-31
+date: 2025-06-10
 ---
 
 <!-- <a href="" target="_blank">link</a> -->
 <!-- <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">Start HW 1</a> -->
 
-We wrapped up component reliability on Tuesday and start system reliability on Friday, using Fault Trees to conceptualize a system reliability problem. Materials will be provided in the workshop; there is no Git repository for this assignment, and it does not need to be turned in.
+The files for WS 05 (Tuesday June 10) can be found via this link: [https://classroom.github.com/a/JNOotehQ](https://classroom.github.com/a/JNOotehQ). This assignment is graded for DDB students. 
 
-Feedback on WS05 is delayed, but will be released as soon as possible---ask Robert in class if you have questions about using component reliability in your other assignments/projects!
+As a reminder, Friday 13th June will have a Q&A for the project.
